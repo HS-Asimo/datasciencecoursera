@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601030649990.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2395913490",
+    "id" : "C407A3F4",
+    "lastKnownWriteTime" : 1601030702,
+    "last_content_update" : 1601030702651,
+    "path" : "D:/Heba/Courses/Coursera/Data Science Specialisation/01_The Data Scientist Toolbox/Project/Course 1 Project/HelloWorld.Rmd",
+    "project_path" : "HelloWorld.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,8",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
